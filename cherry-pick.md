@@ -6,3 +6,6 @@
 - Add rebase main 1
 - Add rebase main 2
 - Add rebase main 3
+
+- add rebase -i 1
+- add rebase -i 2
